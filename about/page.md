@@ -5,4 +5,4 @@ My full name is Lukas Bastian, 21, and I am currently studying Software and data
 
 ## Other related pages
 - Documents from my aforementioned studies can be found [here](https://bastianluk.github.io/MFFUK/)
-- My soon to be published and expanded [reading list]()
+- My soon to be published and expanded [reading list](https://bastianluk.github.io/ReadingList/)
