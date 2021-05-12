@@ -43,8 +43,9 @@ Time ==> 1 product - swagger inspector
 ---
 ## Resources and links
 
-Product web page: https://swagger.io/
-Demo: https://petstore.swagger.io/
+ - Product web page: https://swagger.io/
+ - Demo: https://petstore.swagger.io/
 
-Github (MFF): https://github.com/bastianluk/MFFUK
-LinkedIn: https://www.linkedin.com/in/bastianluk/
+
+ - Github (MFF): https://github.com/bastianluk/MFFUK
+ - LinkedIn: https://www.linkedin.com/in/bastianluk/
