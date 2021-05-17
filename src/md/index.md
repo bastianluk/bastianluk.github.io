@@ -1,23 +1,23 @@
 
 # bastianluk
 
-## About my self
+## About
+
 My full name is Lukas Bastian, 23, and I am currently studying Software and data engineering at the Faculty of Mathematics and Physics @ Charles University in Prague.
 
 ## Slides
 
-- [swagger](?slides=swagger)
+- [Swagger](?slides=swagger)
 - [YouTrack](?slides=youtrack)
 
 
 ---
 ## Older slides
-- [CodeInsight project](/src/archive/code-insight.html)
-
+- CodeInsight [project](/src/archive/code-insight.html) [<img src="/src/img/github.png" height="16px" width="16px">](https://github.com/bastianluk/CodeInsight)
 
 ## Other links
 - Documents from my aforementioned studies can be found [here](https://github.com/bastianluk/MFFUK/)
-- [LinkedIn](https://www.linkedin.com/in/bastianluk/) (not looking for new opportunities as of now)
+- [LinkedIn](https://www.linkedin.com/in/bastianluk/) (currently not looking for new opportunities)
 
 
 #### "Powered" by [remarkjs](https://remark.js.org/)

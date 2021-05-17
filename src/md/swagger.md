@@ -2,10 +2,14 @@
 # Swagger
 
 presentation by [Lukas Bastian](https://github.com/bastianluk/)
+for NSWI126
+- SIS [link](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NSWI126)
+- [Website](https://d3s.mff.cuni.cz/cz/teaching/nswi126/)
 
 ---
 ## Intro - basic information
 
+- what
 - 2010
   - OS specification for designing REST APIs
 - 2015
@@ -18,7 +22,7 @@ background-size: contain
 background-position: right
 background-image: url(/src/img/products-all.gif)
 
-## Products
+## Part of
 
 1. Zephyr
 2. Cucumber (already presented)
@@ -37,8 +41,7 @@ background-image: url(/src/img/products-all.gif)
  - b
  - c
 
-More:
- - @ [specification](https://swagger.io/specification/)
+More @ [specification](https://swagger.io/specification/)
 
 ---
 ### Editor
@@ -89,7 +92,6 @@ Time constraints ==> 1 product
 ## Other links
 
  - Product web page: https://swagger.io/
-
 
  - Github (MFF): https://github.com/bastianluk/MFFUK
  - LinkedIn: https://www.linkedin.com/in/bastianluk/
