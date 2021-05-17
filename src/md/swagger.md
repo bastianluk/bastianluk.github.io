@@ -15,6 +15,7 @@ presentation by [Lukas Bastian](https://github.com/bastianluk/)
 
 
 ---
+background-size: contain
 background-position: right
 background-image: url(/src/img/products-all.gif)
 
