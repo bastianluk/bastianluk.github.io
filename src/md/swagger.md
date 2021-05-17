@@ -2,8 +2,7 @@
 # Swagger
 
 - presentation by [Lukas Bastian](https://github.com/bastianluk/)
-- for NSWI126
-  - SIS [link](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NSWI126)
+- for subject: Advanced Tools for Software Development and Monitoring ([NSWI126](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NSWI126))
   - [Website](https://d3s.mff.cuni.cz/cz/teaching/nswi126/)
 
 ---
