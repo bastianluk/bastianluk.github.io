@@ -1,29 +1,33 @@
 ﻿<!DOCTYPE html>
 <html>
-  <head>
-    <title>bastianluk</title>
-    <meta charset="utf-8">
-    <style>
-      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
-      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+    <head>
+        <title>bastianluk</title>
+        <meta charset="utf-8">
+        <style>
+            @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+            @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+            @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
-      body { font-family: 'Droid Serif'; }
-      h1, h2, h3 {
-        font-family: 'Yanone Kaffeesatz';
-        font-weight: normal;
-      }
-      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-    </style>
-  </head>
-  <body>
-    <script src="./src/remark-snapshot/remark-latest.min-21-05-12.js">
-    </script>
-    <script>
-        var slideshow = remark.create({
-            sourceUrl: './src/md/source.md',
-            ratio: '16:9'
-        });
-    </script>
-  </body>
+            body { font-family: 'Droid Serif'; }
+            h1, h2, h3 {
+                font-family: 'Yanone Kaffeesatz';
+                font-weight: normal;
+            }
+            .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+        </style>
+    </head>
+    <body>
+        <script src="./src/remark-snapshot/remark-latest.min-21-05-17.js"></script>
+        <script>
+            var queryString = window.location.search;
+            var urlParams = new URLSearchParams(queryString);
+            var slides = urlParams.get('slides');
+            var slides = slides ? slides : 'index';
+            console.log(slides);
+            var body = document.getElementsByTagName('body')[0];
+            var scriptElement = document.createElement('script');
+            scriptElement.innerHTML = "var slideshow = remark.create({ sourceUrl: './src/md/" + slides + ".md', ratio: '16:9' });"
+            body.appendChild(scriptElement);
+        </script>
+    </body>
 </html>

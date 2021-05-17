@@ -1,3 +1,4 @@
+
 # Swagger
 
 presentation by [Lukas Bastian](https://github.com/bastianluk/)
@@ -14,10 +15,15 @@ presentation by [Lukas Bastian](https://github.com/bastianluk/)
 
 
 ---
+background-position: right
+background-image: url(/src/img/products-all.gif)
+
 ## Products
 
 1. a
 2. b
+
+
 
 ---
 ### a
