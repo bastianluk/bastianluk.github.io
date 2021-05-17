@@ -23,7 +23,9 @@
             var urlParams = new URLSearchParams(queryString);
             var slides = urlParams.get('slides') ?? 'index';
             console.log(slides);
-            var slideshow = remark.create({ sourceUrl: './src/md/" + slides + ".md', ratio: '16:9' });
+            var sourceUrl = './src/md/' + slides + '.md'
+            var ratio = "16:9"
+            var slideshow = remark.create({ sourceUrl: sourceUrl, ratio: ratio });
         </script>
     </body>
 </html>

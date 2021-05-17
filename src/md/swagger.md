@@ -7,7 +7,11 @@ presentation by [Lukas Bastian](https://github.com/bastianluk/)
 ## Intro - basic info
 
 - by
-- year
+- 2010
+  - OS specification for designing RESTful APIs
+- 2015
+  - acquired by [SmartBear Software](https://smartbear.com/) [![](/src/img/twitter.png)](https://twitter.com/smartbear)
+  - Swagger Specification ==> OpenAPI (Linux foundation)
 
 ---
 ## For who
@@ -21,10 +25,18 @@ background-image: url(/src/img/products-all.gif)
 
 ## Products
 
-1. a
-2. b
+1. Zephyr
+2. Cucumber (already presented)
+3. Swagger
+   - a
+   - b
+   - c
 
+---
 
+### OpenAPI
+
+ - more @ [specification](https://swagger.io/specification/)
 
 ---
 ### a
