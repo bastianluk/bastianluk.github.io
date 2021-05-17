@@ -50,12 +50,19 @@ More:
 ---
 ### Editor
 
+
+
 #### Usecase
+
+
 
 ---
 ### Inspector
 
+
+
 #### Usecase
+
 
 
 ---
@@ -65,6 +72,7 @@ Time ==> 1 product - swagger inspector
 
 [Prepared demo/sandbox environment](https://petstore.swagger.io/)
 
+---
 ## Similar
 
 - a
