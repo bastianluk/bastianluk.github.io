@@ -1,10 +1,10 @@
 
 # Swagger
 
-presentation by [Lukas Bastian](https://github.com/bastianluk/)
-for NSWI126
-- SIS [link](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NSWI126)
-- [Website](https://d3s.mff.cuni.cz/cz/teaching/nswi126/)
+- presentation by [Lukas Bastian](https://github.com/bastianluk/)
+- for NSWI126
+  - SIS [link](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NSWI126)
+  - [Website](https://d3s.mff.cuni.cz/cz/teaching/nswi126/)
 
 ---
 ## Intro - basic information
