@@ -40,37 +40,44 @@ background-image: url(/src/img/products-all.gif)
 More:
  - @ [specification](https://swagger.io/specification/)
 
-
----
-## For who
-
-
-
-
 ---
 ### Editor
 
-
+ - a
+ - b
+ - c
 
 #### Usecase
 
-
+ - a
+ - b
+ - c
 
 ---
 ### Inspector
 
-
+ - a
+ - b
+ - c
 
 #### Usecase
 
-
+ - a
+ - b
+ - c
 
 ---
 ## Demo
 
-Time ==> 1 product - swagger inspector
+Time constraints ==> 1 product
+ - Swagger Inspector
 
 [Prepared demo/sandbox environment](https://petstore.swagger.io/)
+
+[Inspector demo](https://inspector.swagger.io/builder?url=https%3A%2F%2Fswapi.dev%2Fapi%2Fpeople)
+
+[SWAPI](https://swapi.dev/)
+[Inspector tool](https://swagger.io/tools/swagger-inspector/)
 
 ---
 ## Similar
@@ -79,10 +86,9 @@ Time ==> 1 product - swagger inspector
 - b
 
 ---
-## Resources and links
+## Other links
 
  - Product web page: https://swagger.io/
- - Demo: https://petstore.swagger.io/
 
 
  - Github (MFF): https://github.com/bastianluk/MFFUK
