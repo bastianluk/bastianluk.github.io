@@ -206,7 +206,7 @@ class: typo, typo-selection
 - [Product web page](https://www.jetbrains.com/youtrack/)
 - [Wiki](https://en.wikipedia.org/wiki/JetBrains)
 
-### Contact
+### Personal
 
 - [LinkedIn](https://www.linkedin.com/in/bastianluk/)
 - [Github (MFF)](https://github.com/bastianluk/MFFUK)

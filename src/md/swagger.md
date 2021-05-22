@@ -130,9 +130,9 @@ More @ [inspector tool docs](https://swagger.io/tools/swagger-inspector/)
 
 - [Product web page](https://swagger.io/)
 - [OAS wiki](https://en.wikipedia.org/wiki/OpenAPI_Specification)
-- [Swagger wiki](https://en.wikipedia.org/wiki/Swagger_(software))
+- [Swagger wiki](https://en.wikipedia.org/wiki/Swagger_(software)
 
-### Contact
+### Personal
 
 - [LinkedIn](https://www.linkedin.com/in/bastianluk/)
 - [Github (MFF)](https://github.com/bastianluk/MFFUK)
