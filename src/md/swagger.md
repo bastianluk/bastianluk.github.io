@@ -1,5 +1,9 @@
+layout: true
+class: typo, typo-selection
 
 # Swagger
+
+---
 
 - presentation by [Lukas Bastian](https://github.com/bastianluk/)
 - for subject: Advanced Tools for Software Development and Monitoring ([NSWI126](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NSWI126))

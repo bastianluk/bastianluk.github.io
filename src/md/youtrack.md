@@ -1,9 +1,9 @@
 layout: true
-class: typo, typo-selection, border-layout
-
----
+class: typo, typo-selection
 
 # YouTrack
+
+---
 
 - presentation by [Lukas Bastian](https://github.com/bastianluk/)
 - for subject: Advanced Tools for Software Development and Monitoring ([NSWI126](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NSWI126))
@@ -51,6 +51,8 @@ class: typo, typo-selection, border-layout
    - Kotlin
 
 > [On 7 May 2019](https://techcrunch.com/2019/05/07/kotlin-is-now-googles-preferred-language-for-android-app-development/), Google declared Kotlin its preferred language for Android applications development.
+
+]
 
 ---
 
