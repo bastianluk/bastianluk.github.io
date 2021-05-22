@@ -20,14 +20,16 @@
         <!-- Link to remark wiki: https://github.com/gnab/remark/wiki -->
         <script src="./src/remark-snapshot/remark-latest.min-21-05-17.js"></script>
         <script>
-            var queryString = window.location.search;
-            var urlParams = new URLSearchParams(queryString);
-            var slides = urlParams.get('slides') ?? 'index';
+            var queryString = window.location.search
+            var urlParams = new URLSearchParams(queryString)
+            var slides = urlParams.get('slides') ?? 'index'
             var sourceUrl = './src/md/' + slides + '.md'
             var ratio = "16:9"
+            var incrementalSlidesCounted = false
             var createParameters = {
                 sourceUrl: sourceUrl,
-                ratio: ratio
+                ratio: ratio,
+                countIncrementalSlides: incrementalSlidesCounted
             };
             var slideshow = remark.create(createParameters);
         </script>
