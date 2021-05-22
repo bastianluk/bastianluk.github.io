@@ -6,15 +6,15 @@
   - [Website](https://d3s.mff.cuni.cz/cz/teaching/nswi126/)
 
 ---
+
 ## Intro - basic information
 
-- what
-- 2010
-  - OS specification for designing REST APIs
-- 2015
-  - acquired by [SmartBear Software](https://smartbear.com/) [<img src="/src/img/twitter.png" height="16px" width="16px">](https://twitter.com/smartbear)
-  - Swagger Specification ==> OpenAPI (Linux foundation)
-
+- What&When?
+  - 2010
+    - OS specification for designing REST APIs
+  - 2015
+    - acquired by [SmartBear Software](https://smartbear.com/) [<img src="/src/img/twitter.png" height="16px" width="16px">](https://twitter.com/smartbear)
+    - Swagger Specification ==> OpenAPI (Linux foundation)
 
 ---
 background-size: contain
@@ -24,8 +24,8 @@ background-image: url(/src/img/products-all.gif)
 ## Part of
 
 1. Zephyr
-2. Cucumber (already presented)
-3. Swagger
+1. Cucumber (already presented)
+1. Swagger
    - Editor
    - UI
    - Codegen
@@ -36,43 +36,46 @@ background-image: url(/src/img/products-all.gif)
 
 ### OpenAPI
 
- - a
- - b
- - c
+- a
+- b
+- c
 
 More @ [specification](https://swagger.io/specification/)
 
 ---
+
 ### Editor
 
- - a
- - b
- - c
+- a
+- b
+- c
 
 #### Usecase
 
- - a
- - b
- - c
+- a
+- b
+- c
 
 ---
+
 ### Inspector
 
- - a
- - b
- - c
+- a
+- b
+- c
 
 #### Usecase
 
- - a
- - b
- - c
+- a
+- b
 
 ---
+
 ## Demo
 
 Time constraints ==> 1 product
- - Swagger Inspector
+
+- Swagger Inspector
 
 [Prepared demo/sandbox environment](https://petstore.swagger.io/)
 
@@ -82,15 +85,19 @@ Time constraints ==> 1 product
 [Inspector tool](https://swagger.io/tools/swagger-inspector/)
 
 ---
+
 ## Similar
 
 - a
 - b
 
 ---
-## Other links
 
- - Product web page: https://swagger.io/
+## Sources and other links
 
- - Github (MFF): https://github.com/bastianluk/MFFUK
- - LinkedIn: https://www.linkedin.com/in/bastianluk/
+- [Product web page](https://swagger.io/)
+
+### Contact
+
+- [LinkedIn](https://www.linkedin.com/in/bastianluk/)
+- [Github (MFF)](https://github.com/bastianluk/MFFUK)
