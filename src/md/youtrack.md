@@ -5,10 +5,13 @@ class: typo, typo-selection
 
 ---
 
+.footer[
+
 - presentation by [Lukas Bastian](https://github.com/bastianluk/)
 - for subject: Advanced Tools for Software Development and Monitoring ([NSWI126](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NSWI126))
   - [Website](https://d3s.mff.cuni.cz/cz/teaching/nswi126/)
 
+]
 ---
 
 ## Intro - basic information
@@ -27,7 +30,7 @@ class: typo, typo-selection
 
 ## Part of
 
---
+.column-2[
 
 1. IDEs
    - Rider
@@ -35,22 +38,15 @@ class: typo, typo-selection
    - WebStorm
    - PyCharm
    - ...
---
-
-1. Plugins
-   - ReSharper
---
-
 1. Tools
    - TeamCity
    - **YouTrack**
    - ...
---
-
 1. Languages
    - Kotlin
-
-> [On 7 May 2019](https://techcrunch.com/2019/05/07/kotlin-is-now-googles-preferred-language-for-android-app-development/), Google declared Kotlin its preferred language for Android applications development.
+   > [On 7 May 2019](https://techcrunch.com/2019/05/07/kotlin-is-now-googles-preferred-language-for-android-app-development/), Google declared Kotlin its preferred language for Android applications development.
+1. Plugins
+   - ReSharper
 
 ]
 

@@ -1,3 +1,37 @@
+div.header {
+	background-color: #F77A00;
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#ffb76b), color-stop(0%,#ffa73d), color-stop(0%,#ffffff), color-stop(10%,#ffffff), color-stop(25%,#F77A00), color-stop(100%,#F77A00));
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	height: 30px;
+	width: 100%;
+	text-align: left;
+}
+
+div.footer {
+    border-top: 1px solid #ccc;
+    font-size: 10pt;
+	text-align: left;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	height: 5%;
+	width: 100%;
+}
+
+div.footer p {
+    margin-top: 10px;
+    height: 30px;
+}
+
+div.footer img {
+	height: 30px;
+	bottom: 0px;
+	left: 0px;
+	position: fixed;
+}
+
 .remark-container {
     background-color: white;
 }
