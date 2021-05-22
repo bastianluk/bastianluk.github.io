@@ -1,3 +1,7 @@
+layout: true
+class: typo, typo-selection, border-layout
+
+---
 
 # YouTrack
 
@@ -28,22 +32,21 @@
 1. IDEs
    - Rider
    - IntelliJ IDEA
-   - PhpStorm
    - WebStorm
    - PyCharm
    - ...
-
 --
+
 1. Plugins
    - ReSharper
-
 --
+
 1. Tools
    - TeamCity
-   - YouTrack
+   - **YouTrack**
    - ...
-
 --
+
 1. Languages
    - Kotlin
 

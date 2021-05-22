@@ -15,6 +15,9 @@
             }
             .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
         </style>
+        <link rel="stylesheet" type="text/css" href="./src/css/pure-min.css" />
+        <link rel="stylesheet" type="text/css" href="./src/css/typo.css" />
+        <link rel="stylesheet" type="text/css" href="./src/css/border-layout.css" />
     </head>
     <body>
         <!-- Link to remark wiki: https://github.com/gnab/remark/wiki -->
@@ -22,15 +25,32 @@
         <script>
             var queryString = window.location.search
             var urlParams = new URLSearchParams(queryString)
-            var slides = urlParams.get('slides') ?? 'index'
-            var sourceUrl = './src/md/' + slides + '.md'
+            var slides = urlParams.get("slides") ?? "index"
+
+            var sourceUrl = "./src/md/" + slides + ".md"
             var ratio = "16:9"
-            var incrementalSlidesCounted = false
+            var countIncrementalSlides = false
+            var highlightStyle = "github"
+            var highlightLines = true
+
+            var scrollNavigation = true
+            var touchNavigation = true
+            var clickNavigation = false
+            var navigation = {
+                scroll: scrollNavigation,
+                touch: touchNavigation,
+                click: clickNavigation
+            }
+
             var createParameters = {
                 sourceUrl: sourceUrl,
                 ratio: ratio,
-                countIncrementalSlides: incrementalSlidesCounted
+                countIncrementalSlides: countIncrementalSlides,
+                highlightStyle: highlightStyle,
+                highlightLines: highlightLines,
+                navigation: navigation
             };
+
             var slideshow = remark.create(createParameters);
         </script>
     </body>
