@@ -5,25 +5,33 @@ class: typo, typo-selection
 
 ---
 
+.middle.center[
+    ![logo](/src/static/swagger.png)
+]
+
+.footer[
+
 - presentation by [Lukas Bastian](https://github.com/bastianluk/)
 - for subject: Advanced Tools for Software Development and Monitoring ([NSWI126](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NSWI126))
   - [Website](https://d3s.mff.cuni.cz/cz/teaching/nswi126/)
+
+]
 
 ---
 
 ## Intro - basic information
 
 - What&When?
-  - 2010
-    - OS specification for designing REST APIs
-  - 2015
-    - acquired by [SmartBear Software](https://smartbear.com/) [<img src="/src/img/twitter.png" height="16px" width="16px">](https://twitter.com/smartbear)
-    - Swagger Specification ==> OpenAPI (Linux foundation)
+   - 2010
+      - open source specification for designing REST APIs
+   - 2015
+      - acquired by [SmartBear Software](https://smartbear.com/) [<img src="/src/static/twitter.png" height="16px" width="16px">](https://twitter.com/smartbear)
+      - Swagger Specification ==> OpenAPI (Linux foundation)
 
 ---
 background-size: contain
 background-position: right
-background-image: url(/src/img/products-all.gif)
+background-image: url(/src/static/products-all.gif)
 
 ## Part of
 
@@ -40,66 +48,89 @@ background-image: url(/src/img/products-all.gif)
 
 ### OpenAPI
 
-- a
-- b
-- c
+> ... specification for machine-readable interface files for describing, producing, consuming, and visualizing RESTful web services.
+
+- Document Structure
+- Data Types
+- Schema
+- ...
+
+.footer[
 
 More @ [specification](https://swagger.io/specification/)
 
+]
+
 ---
+
+.left-column[
 
 ### Editor
 
-- a
-- b
-- c
+- Design, describe, document API
 
-#### Usecase
+]
 
-- a
-- b
-- c
+.right-column[
+
+#### Usecases
+
+- internal
+  - documentation for other devs
+- external
+  - documentation for partners
+
+]
 
 ---
 
+.left-column[
+
 ### Inspector
 
-- a
-- b
-- c
+- Validate API
 
-#### Usecase
+]
 
-- a
-- b
+.right-column[
+
+#### Usecases
+
+- autogenerate documentation for existing API
+
+]
 
 ---
 
 ## Demo
 
-Time constraints ==> 1 product
+Swagger Inspector:
 
-- Swagger Inspector
+- [Prepared demo/sandbox environment](https://petstore.swagger.io/)
+- [Inspector demo](https://inspector.swagger.io/builder?url=https%3A%2F%2Fswapi.dev%2Fapi%2Fpeople)
+  - [SWAPI](https://swapi.dev/)
 
-[Prepared demo/sandbox environment](https://petstore.swagger.io/)
+.footer[
 
-[Inspector demo](https://inspector.swagger.io/builder?url=https%3A%2F%2Fswapi.dev%2Fapi%2Fpeople)
+More @ [inspector tool docs](https://swagger.io/tools/swagger-inspector/)
 
-[SWAPI](https://swapi.dev/)
-[Inspector tool](https://swagger.io/tools/swagger-inspector/)
+]
 
 ---
 
 ## Similar
 
-- a
-- b
+- [Postman](https://www.postman.com/)
+- [Apiary](https://apiary.io/)
+- ...?
 
 ---
 
 ## Sources and other links
 
 - [Product web page](https://swagger.io/)
+- [OAS wiki](https://en.wikipedia.org/wiki/OpenAPI_Specification)
+- [Swagger wiki](https://en.wikipedia.org/wiki/Swagger_(software))
 
 ### Contact
 

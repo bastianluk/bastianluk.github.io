@@ -18,7 +18,7 @@ My full name is Lukas Bastian, 23, and I am currently studying Software and data
 
 ## Older slides
 
-- CodeInsight [project](/src/archive/code-insight.html) [<img src="/src/img/github.png" height="16px" width="16px">](https://github.com/bastianluk/CodeInsight)
+- CodeInsight [project](/src/archive/code-insight.html) [<img src="/src/static/github.png" height="16px" width="16px">](https://github.com/bastianluk/CodeInsight)
 
 ## Other links
 

@@ -5,6 +5,10 @@ class: typo, typo-selection
 
 ---
 
+.middle.center[
+    ![logo](/src/static/yt-logo.png)
+]
+
 .footer[
 
 - presentation by [Lukas Bastian](https://github.com/bastianluk/)
@@ -26,6 +30,10 @@ class: typo, typo-selection
   - 2009
 - InCloud & Standalone
   - Offer free versions (up to 3/10)
+
+.invisible-ink[
+    TODO: Add a picture of JetBrains logo
+]
 
 ---
 
@@ -55,15 +63,22 @@ class: typo, typo-selection
 
 ## For who
 
-.center[# Agile!]
+--
 
-- (Anyone, really.)
+.middle.center[
+    # Agile!
+]
+
+--
+.middle.center[
+    (Anyone, really)
+]
 
 ---
 
 ## Sidenote
 
-- Mostly showing the InCloud version.
+- Familiarity ==> showing the InCloud version
 
 ---
 
@@ -77,7 +92,16 @@ class: typo, typo-selection
 
 ### Issue
 
-Unit of work
+- Unit of work
+  - Feature
+  - Bug
+  - Consolidation
+  - Cleanup
+  - ...
+
+.invisible-ink[
+    TODO: Add a picture
+]
 
 ---
 
@@ -85,11 +109,19 @@ Unit of work
 
 - special view
 
+.invisible-ink[
+    TODO: Add a picture
+]
+
 ---
 
 ### Statistics
 
 - queries => graphs
+
+.invisible-ink[
+    TODO: Add a picture
+]
 
 ---
 
@@ -135,25 +167,36 @@ Unit of work
 
 - REST API
 - Allows:
-  - a
-  - b
-  - c
+   - Import
+   - CRUD over issues
+   - Project manipulation ==> automatic workflows
+      - note: [Zapier](https://zapier.com/) - interesting tool to look at
+
+.invisible-ink[
+    TODO: Add a picture of moving an item?
+]
 
 ---
 
 ## Demo
 
-- Templates
-- Constraints
-- Zappier integration
+- Sign up page: [Get Started Free](https://www.jetbrains.com/youtrack/)
+
+### Topics
+
+- Issue templates
+  - "Options are limitless*"
+  - Constraints
+- Reports
+- Integration with GitHub?
 
 ---
 
 ## Similar
 
 - [Jira](https://www.atlassian.com/software/jira) (presented)
-- Azure DevOps Server (TFS/Team Foundation Server) [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/) (TFS/Team Foundation Server)
-- Freelo [Freelo](https://www.freelo.cz/)
+- [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/) (TFS/Team Foundation Server)
+- [Freelo](https://www.freelo.cz/)
 - ...
 
 ---
