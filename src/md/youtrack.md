@@ -12,6 +12,7 @@ class: typo, typo-selection
   - [Website](https://d3s.mff.cuni.cz/cz/teaching/nswi126/)
 
 ]
+
 ---
 
 ## Intro - basic information
