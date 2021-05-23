@@ -20,7 +20,7 @@ class: typo, typo-selection
 ---
 background-size: contain
 background-position: right
-background-image: url(/src/static/youtrack.gif)
+background-image: url(/src/static/jetbrains.png)
 
 ## Intro - basic information
 
@@ -33,12 +33,6 @@ background-image: url(/src/static/youtrack.gif)
   - 2009
 - InCloud & Standalone
   - Offer free versions (up to 3/10)
-
-.invisible-ink[
-    TODO: Add a picture of JetBrains logo
-]
-
-
 
 ---
 
@@ -95,6 +89,8 @@ background-image: url(/src/static/youtrack.gif)
 
 ---
 
+.left-column-25[
+
 ### Issue
 
 - Unit of work
@@ -104,28 +100,52 @@ background-image: url(/src/static/youtrack.gif)
   - Cleanup
   - ...
 
+]
+
+.right-column-75[
+
 .invisible-ink[
     TODO: Add a picture
 ]
 
+![dashboard](/src/static/youtrack-dashboard.png)
+
+]
+
 ---
+
+.left-column-25[
 
 ### Board
 
 - special view
 
-.invisible-ink[
-    TODO: Add a picture
+]
+
+.right-column-75[
+
+![dashboard](/src/static/youtrack-dashboard.png)
+
 ]
 
 ---
+
+.left-column-25[
 
 ### Statistics
 
 - queries => graphs
 
+]
+
+.right-column-75[
+
 .invisible-ink[
     TODO: Add a picture
+]
+
+![dashboard](/src/static/youtrack-dashboard.png)
+
 ]
 
 ---
@@ -194,6 +214,9 @@ background-image: url(/src/static/youtrack.gif)
   - Constraints
 - Reports
 - Integration with GitHub?
+
+???
+test
 
 ---
 
