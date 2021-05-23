@@ -6,7 +6,7 @@ class: typo, typo-selection
 ---
 
 .middle.center[
-    ![logo](/src/static/yt-logo.png)
+    ![logo](/src/static/youtrack.png)
 ]
 
 .footer[
@@ -18,6 +18,9 @@ class: typo, typo-selection
 ]
 
 ---
+background-size: contain
+background-position: right
+background-image: url(/src/static/youtrack.gif)
 
 ## Intro - basic information
 
@@ -34,6 +37,8 @@ class: typo, typo-selection
 .invisible-ink[
     TODO: Add a picture of JetBrains logo
 ]
+
+
 
 ---
 

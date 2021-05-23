@@ -31,7 +31,7 @@ class: typo, typo-selection
 ---
 background-size: contain
 background-position: right
-background-image: url(/src/static/products-all.gif)
+background-image: url(/src/static/smartbear-products.gif)
 
 ## Part of
 
