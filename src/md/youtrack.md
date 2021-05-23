@@ -6,7 +6,9 @@ class: typo, typo-selection
 ---
 
 .middle.center[
-    ![logo](/src/static/youtrack.png)
+
+![logo](/src/static/youtrack.png)
+
 ]
 
 .footer[
@@ -18,11 +20,10 @@ class: typo, typo-selection
 ]
 
 ---
-background-size: contain
-background-position: right
-background-image: url(/src/static/jetbrains.png)
 
 ## Intro - basic information
+
+.left-column-66[
 
 - What?
   - issue tracking system / project management software
@@ -33,6 +34,14 @@ background-image: url(/src/static/jetbrains.png)
   - 2009
 - InCloud & Standalone
   - Offer free versions (up to 3/10)
+
+]
+
+.right-column-33[
+
+![logo](/src/static/jetbrains.png)
+
+]
 
 ---
 
@@ -104,11 +113,7 @@ background-image: url(/src/static/jetbrains.png)
 
 .right-column-75[
 
-.invisible-ink[
-    TODO: Add a picture
-]
-
-![dashboard](/src/static/youtrack-dashboard.png)
+![dashboard](/src/static/youtrack-issue.png)
 
 ]
 
@@ -140,11 +145,7 @@ background-image: url(/src/static/jetbrains.png)
 
 .right-column-75[
 
-.invisible-ink[
-    TODO: Add a picture
-]
-
-![dashboard](/src/static/youtrack-dashboard.png)
+![dashboard](/src/static/youtrack-statistics.png)
 
 ]
 
@@ -216,7 +217,14 @@ background-image: url(/src/static/jetbrains.png)
 - Integration with GitHub?
 
 ???
-test
+
+# Steps
+
+1. Add issue field
+2. User managment
+3. Project managment - multiple projects
+4. Workflows
+5. Rules
 
 ---
 
