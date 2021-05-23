@@ -226,6 +226,8 @@ class: typo, typo-selection
 4. Workflows
 5. Rules
 
+[Link to demo](https://bastianluk.myjetbrains.com/youtrack/)
+
 ---
 
 ## Similar
