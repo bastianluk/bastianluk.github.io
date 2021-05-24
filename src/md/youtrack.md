@@ -168,14 +168,15 @@ class: typo, typo-selection
 - .csv
 - Jira
 - GitHub
-- Bugzilla...
+- Bugzilla
+- ...
 
 ---
 
 ### VCS
 
 - GitHub
-- BitBuckert
+- BitBucket
 - GitLab
 - Others via TeamCity/Upsource
 
