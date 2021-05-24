@@ -215,7 +215,6 @@ class: typo, typo-selection
   - "Options are limitless*"
   - Constraints
 - Reports
-- Integration with GitHub?
 
 ???
 
