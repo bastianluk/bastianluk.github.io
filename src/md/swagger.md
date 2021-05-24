@@ -121,7 +121,7 @@ More @ [inspector tool docs](https://swagger.io/tools/swagger-inspector/)
 ## Similar
 
 - [Postman](https://www.postman.com/)
-- [Apiary](https://apiary.io/)
+- [Apiary](https://apiary.io/) (presented during lectures)
 - ...?
 
 ---

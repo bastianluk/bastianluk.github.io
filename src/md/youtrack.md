@@ -166,7 +166,7 @@ class: typo, typo-selection
 ### Import
 
 - .csv
-- Jira
+- Jira (presented during lectures)
 - GitHub
 - Bugzilla
 - ...
@@ -232,7 +232,7 @@ class: typo, typo-selection
 
 ## Similar
 
-- [Jira](https://www.atlassian.com/software/jira) (presented)
+- [Jira](https://www.atlassian.com/software/jira) (presented during lectures)
 - [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/) (TFS/Team Foundation Server)
 - [Freelo](https://www.freelo.cz/)
 - ...
