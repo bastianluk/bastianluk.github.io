@@ -199,10 +199,6 @@ class: typo, typo-selection
    - Project manipulation ==> automatic workflows
       - note: [Zapier](https://zapier.com/) - interesting tool to look at
 
-.invisible-ink[
-    TODO: Add a picture of moving an item?
-]
-
 ---
 
 ## Demo
@@ -211,20 +207,18 @@ class: typo, typo-selection
 
 ### Topics
 
-- Issue templates
-  - "Options are limitless*"
-  - Constraints
-- Reports
+- Basics
+- Fields
+- Workflows
 
 ???
 
 # Steps
 
-1. Add issue field
-2. User managment
-3. Project managment - multiple projects
+1. Board
+2. Reports
+3. Issues
 4. Workflows
-5. Rules
 
 [Link to demo](https://bastianluk.myjetbrains.com/youtrack/)
 
