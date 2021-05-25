@@ -129,8 +129,10 @@ More @ [inspector tool docs](https://swagger.io/tools/swagger-inspector/)
 ## Sources and other links
 
 - [Product web page](https://swagger.io/)
-- [OAS wiki](https://en.wikipedia.org/wiki/OpenAPI_Specification)
-- [Swagger wiki](https://en.wikipedia.org/wiki/Swagger_(software)
+- [Official resources](https://swagger.io/resources/)
+  - docs, trainings, articles...
+- [OAS wikipedia page](https://en.wikipedia.org/wiki/OpenAPI_Specification)
+- [Swagger wikipedia page](https://en.wikipedia.org/wiki/Swagger_software)
 
 ### Personal
 

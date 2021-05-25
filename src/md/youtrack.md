@@ -236,7 +236,9 @@ class: typo, typo-selection
 ## Sources and other links
 
 - [Product web page](https://www.jetbrains.com/youtrack/)
-- [Wiki](https://en.wikipedia.org/wiki/JetBrains)
+- [Official resources](https://www.jetbrains.com/youtrack/documentation/)
+  - docs, trainings, articles...
+- [JetBrains wikipedia page](https://en.wikipedia.org/wiki/JetBrains)
 
 ### Personal
 
