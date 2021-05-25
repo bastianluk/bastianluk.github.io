@@ -14,37 +14,7 @@
     </head>
     <body background="">
         <!-- Link to remark wiki: https://github.com/gnab/remark/wiki -->
-        <script src="./src/js/remark-latest.min-21-05-17.js"></script>
-        <script>
-            var queryString = window.location.search
-            var urlParams = new URLSearchParams(queryString)
-            var slides = urlParams.get("slides") ?? "index"
-
-            var sourceUrl = "./src/md/" + slides + ".md"
-            var ratio = "16:9"
-            var countIncrementalSlides = false
-            var highlightStyle = "github"
-            var highlightLines = true
-
-            var scrollNavigation = true
-            var touchNavigation = true
-            var clickNavigation = false
-            var navigation = {
-                scroll: scrollNavigation,
-                touch: touchNavigation,
-                click: clickNavigation
-            }
-
-            var createParameters = {
-                sourceUrl: sourceUrl,
-                ratio: ratio,
-                countIncrementalSlides: countIncrementalSlides,
-                highlightStyle: highlightStyle,
-                highlightLines: highlightLines,
-                navigation: navigation
-            };
-
-            var slideshow = remark.create(createParameters);
-        </script>
+        <script src="./src/js/remark-latest.min-21-05-17.js" type="text/javascript"></script>
+        <script src="./src/js/index.js" type="text/javascript"></script>
     </body>
 </html>
