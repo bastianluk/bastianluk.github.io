@@ -18,13 +18,10 @@ Currently, I paused my studies of Software and data engineering at the Faculty o
 
 ---
 
-## Older slides
+## Older slides and link
 
-- [Knowledge list](?slides=knowledge)
+- [Knowledge sources](?slides=knowledge)
 - CodeInsight [project](/src/archive/code-insight.html) [<img src="/src/static/github.png" height="16px" width="16px">](https://github.com/bastianluk/CodeInsight)
-
-## Other links
-
 - Documents from my aforementioned studies can be found [here](https://github.com/bastianluk/MFFUK/)
 - [LinkedIn](https://www.linkedin.com/in/bastianluk/) (currently not looking for new opportunities)
 
