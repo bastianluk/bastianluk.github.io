@@ -7,7 +7,9 @@ class: typo, typo-selection
 
 ## About
 
-My full name is Lukas Bastian, 23, and I am currently studying Software and data engineering at the Faculty of Mathematics and Physics @ Charles University in Prague.
+My full name is Lukas Bastian, 23, and I am working as a .NET Platform Engineer @ [Mews](https://github.com/MewsSystems).
+
+Currently, I paused my studies of Software and data engineering at the Faculty of Mathematics and Physics @ Charles University in Prague.
 
 ## Slides
 
@@ -18,6 +20,7 @@ My full name is Lukas Bastian, 23, and I am currently studying Software and data
 
 ## Older slides
 
+- [Knowledge list](?slides=knowledge)
 - CodeInsight [project](/src/archive/code-insight.html) [<img src="/src/static/github.png" height="16px" width="16px">](https://github.com/bastianluk/CodeInsight)
 
 ## Other links
