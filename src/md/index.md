@@ -7,23 +7,19 @@ class: typo, typo-selection
 
 ## About
 
-My full name is Lukas Bastian, 23, and I am working as a .NET Platform Engineer @ [Mews](https://github.com/MewsSystems).
+My full name is Lukáš Bastián, 28, and I am working as a senior .NET Platform Engineer, formerly @ [Mews](https://github.com/MewsSystems).
 
-Currently, I paused my studies of Software and data engineering at the Faculty of Mathematics and Physics @ Charles University in Prague.
+- [The Mews portfolio](?slides=portfolio)
 
-## Slides
+I am currently **looking for new opportunities**.
 
-- [Swagger](?slides=swagger)
-- [YouTrack](?slides=youtrack)
+I am mainly interested in anything platform engineering or developer experience related - I have experience with my colleagues being my "customers" and I think in today's day and age there is a lot of value in making other developers more productive.
+
+I am open to the idea of joining as a product developer / builder to help deliver direct value to end customers. It is an area that interests me especially since I got a small wind of it in my last project where I was in direct contact with the customers and making sure the beta program for my new feature was a success.
+
+In the past, I paused and subsequently ended my studies of Software and data engineering at the Faculty of Mathematics and Physics @ Charles University in Prague (2017-2021).
 
 ---
-
-## Older slides and link
-
-- [Knowledge sources](?slides=knowledge)
-- CodeInsight [project](/src/archive/code-insight.html) [<img src="/src/static/github.png" height="16px" width="16px">](https://github.com/bastianluk/CodeInsight)
-- Documents from my aforementioned studies can be found [here](https://github.com/bastianluk/MFFUK/)
-- [LinkedIn](https://www.linkedin.com/in/bastianluk/) (currently not looking for new opportunities)
 
 ### "Powered" by [remarkjs](https://remark.js.org/)
 
