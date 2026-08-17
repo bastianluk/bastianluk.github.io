@@ -27,7 +27,7 @@ function getNavigation(scrollNavigation, touchNavigation, clickNavigation)
 
 function getParameters(slides, navigation)
 {
-    var sourceUrl = "./src/md/" + slides + ".md"
+    var sourceUrl = "/src/md/remark/" + slides + ".md"
     var ratio = "16:9"
     var countIncrementalSlides = false
     var highlightStyle = "github"
