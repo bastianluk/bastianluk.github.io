@@ -1,15 +1,14 @@
 layout: true
 class: typo, typo-selection
 
-# Portfolio
+##### [bastianluk](/)
+#### [Portfolio](/?slides=portfolio)
 
 ---
 
-## Under construction
+### Under construction
 
 The news about my end at Mews are still fairly new, I am still in the process of updating my docs.
-
----
 
 ## Mews
 
